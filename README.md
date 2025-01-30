@@ -16,7 +16,3 @@ The system allows users to:
 # Technologies Used:
 Java 8 or later (enhanced switch syntax is supported from Java 12)
 Object-Oriented Programming (OOP) principles
-Future Enhancements:
-Data persistence (e.g., saving students' data to a file or database).
-Implementing error handling for invalid inputs and edge cases.
-Expanding functionality to include editing or deleting student records.
